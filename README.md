@@ -16,7 +16,7 @@
 
 ---
 ### :woman_technologist: About Me :
-I am a junior data analyst with a passion for using data to drive business decisions. I have a degree in Engineering and have completed several online courses in data analysis and visualization. I am proficient in Python, Numpy, pandas, Matplotlib and SQL.
+Investigation Analyst at Inca Digital. I have a degree in Engineering and have completed several online courses in data analysis and visualization. I am proficient in Python, Numpy, Pandas, Matplotlib and SQL.
 
 - :mailbox:How to reach me: :email: ksenia.learning@gmail.com
 
