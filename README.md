@@ -11,8 +11,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhyZXh4ZXptM3Ixc241czBucjNzbm1qMDd4c3I0bXljZHNueGUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" height="300"/>
-</div>
 
 ---
 ### :woman_technologist: About Me :
