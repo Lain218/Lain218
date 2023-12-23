@@ -10,8 +10,7 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
-### :woman_technologist: About Me :
+:woman_technologist: About Me :
 Investigation Analyst at Inca Digital. I have a degree in Engineering and have completed several online courses in data analysis and visualization. I am proficient in Python, Numpy, Pandas, Matplotlib and SQL.
 
 - :mailbox:How to reach me: :email: ksenia.learning@gmail.com
